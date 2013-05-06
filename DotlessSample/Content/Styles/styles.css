@@ -1,0 +1,9 @@
+p {
+  color: gray;
+}
+p.active {
+  color: red;
+}
+p.selected {
+  color: #ff6a00;
+}
